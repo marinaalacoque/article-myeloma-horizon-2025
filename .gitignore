@@ -4,7 +4,7 @@ venv/
 *.pyc
 *.pyo
 __pycache__/
-
+ctg-studies-myeloma-2003-to-2024.json
 # Configurações do editor
 .vscode/
 .idea/
